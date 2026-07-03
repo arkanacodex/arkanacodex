@@ -1,23 +1,41 @@
-# Arkana Codex
-### Core Architecture & Parametric Risk Systems
+Arkana Codex
+Core Architecture & Deterministic Risk Systems
 
-> **Architected & Directed by Dorian Herrera**
-> *"Physics does not negotiate with your pro forma."*
+Architected & Directed by Dorian Herrera
 
-We extract certainty from global regulatory and physical chaos. Arkana Terminal delivers the raw parametric intelligence, asset degradation reports, and CapEx optimization benchmarks required by VPs of Operations, Asset Managers, and CFOs to validate multi-million dollar infrastructure deployments.
+"Physics does not negotiate with your pro forma."
 
----
+Arkana Codex builds deterministic financial models for C&I 
+infrastructure decisions that don't tolerate optimistic 
+assumptions. Each dossier maps the regulatory exposure, market 
+conditions, and asset valuation impact specific to its asset 
+class — giving VPs of Operations, Asset Managers, and CFOs the 
+underwriting parameters required to commit capital, not to 
+justify it after the fact.
 
-### Active Intelligence Dossiers (2026 Roadmap)
-* **`ARK-001` // Obsidian Skin [BIPV]:** Forensic underwriting, urban shading simulation, and thermodynamic degradation models. *(Operational // July)*
-* **`ARK-002` // BESS Thermal Collapse:** Predictive mitigation of industrial battery failures and electrochemical live risk matrices. *(Pending // August)*
-* **`ARK-003` // Robotic Fleet Stall:** Intralogistics multi-vendor validation pipelines and strict 5-year TCO matrix engines. *(Pending // October)*
-* **`ARK-004` // Water Supply Curtailment:** RegTech automated OSINT tracking and industrial downtime financial risk modeling. *(Pending // November)*
+Active Intelligence Dossiers (2026 Roadmap)
 
-### Core Infrastructure & Tech Stack
-* **Analytical Engines:** Codex-Engine-Prod framework / Parametric Simulation Models.
-* **Data Pipelines:** Automated Forensic Underwriting / Regulatory OSINT Trackers / Financial Capital Stack Modeling.
-* **Domain Focus:** Energy Storage Systems (BESS), Industrial Automation, Building-Integrated Photovoltaics, Critical Resource Scarcity.
+- `ARK-001` // Spectral Skin [BIPV]: Underwriting-grade analysis 
+  of urban shading, LL97 carbon exposure, and 25-year asset 
+  valuation for building-integrated photovoltaics. (Live — NYC/
+  Manhattan)
+- `ARK-002` // BESS Degradation & Insurance Risk: Battery 
+  degradation curves, thermal runaway probability, and insurance 
+  compliance thresholds for commercial storage assets. (Q3 2026)
+- `ARK-003` // Robotic Fleet Deployment Risk: Multi-vendor TCO 
+  validation and deployment risk assessment for industrial 
+  intralogistics automation. (Q3/Q4 2026)
 
----
-🌐 [Access the Database & Terminal](https://arkanacodex.com) • ✉️ [Corporate Clearance](mailto:dorian@arkanacodex.com)
+Core Infrastructure & Methodology
+
+- Financial Modeling: Deterministic scenario frameworks (fixed 
+  Conservative/Base/Optimistic scenarios — no adjustable 
+  assumptions).
+- Data Sources: Verified regulatory data (NYC Local Law 97, 
+  EPA eGRID, NREL solar data), manufacturer specifications, and 
+  public compliance registries.
+- Domain Focus: Building-Integrated Photovoltaics, Battery Energy 
+  Storage Systems, Industrial Automation & Robotics.
+
+🌐 Access the platform: https://arkanacodex.com/
+✉ Contact: dorian@arkanacodex.com
