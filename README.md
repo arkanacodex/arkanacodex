@@ -24,7 +24,7 @@ Active Intelligence Dossiers (2026 Roadmap)
   compliance thresholds for commercial storage assets. (Q3 2026)
 - `ARK-003` // Robotic Fleet Deployment Risk: Multi-vendor TCO 
   validation and deployment risk assessment for industrial 
-  intralogistics automation. (Q3/Q4 2026)
+  intralogistics automation. (Q3 2026)
 
 Core Infrastructure & Methodology
 
